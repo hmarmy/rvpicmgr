@@ -1,0 +1,1 @@
+Main-Class: org.rv.picmgr2.Main
